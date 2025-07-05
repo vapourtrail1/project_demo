@@ -1,0 +1,6 @@
+10001 张三 20 Salesman 68000
+10002 李四 23 Salesman 4000
+10003 王五 28 SalesManager 101101
+10004 赵六 34 Manager
+10005 dadd 41 Salesman 313123
+10010 shijin 155 Salesman 13131

@@ -1,0 +1,17 @@
+﻿  ManagementSystem.cpp
+g:\code\project\manage_system\manage_system\salesmanager.h(15): warning C4250: “SalesManager”: 通过域控制继承“Salesman::Salesman::getSales”
+  g:\code\project\manage_system\manage_system\salesman.h(20): note: 参见“Salesman::getSales”的声明
+g:\code\project\manage_system\manage_system\salesmanager.h(15): warning C4250: “SalesManager”: 通过域控制继承“Salesman::Salesman::setSales”
+  g:\code\project\manage_system\manage_system\salesman.h(21): note: 参见“Salesman::setSales”的声明
+g:\code\project\manage_system\manage_system\managementsystem.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+g:\code\project\manage_system\manage_system\managementsystem.cpp(76): warning C4018: “<”: 有符号/无符号不匹配
+g:\code\project\manage_system\manage_system\managementsystem.cpp(92): warning C4018: “<”: 有符号/无符号不匹配
+g:\code\project\manage_system\manage_system\managementsystem.cpp(120): warning C4018: “<”: 有符号/无符号不匹配
+g:\code\project\manage_system\manage_system\managementsystem.cpp(179): warning C4018: “<”: 有符号/无符号不匹配
+g:\code\project\manage_system\manage_system\managementsystem.cpp(225): warning C4018: “<”: 有符号/无符号不匹配
+g:\code\project\manage_system\manage_system\managementsystem.cpp(239): warning C4018: “<”: 有符号/无符号不匹配
+g:\code\project\manage_system\manage_system\managementsystem.cpp(260): warning C4018: “<”: 有符号/无符号不匹配
+g:\code\project\manage_system\manage_system\managementsystem.cpp(277): warning C4018: “<”: 有符号/无符号不匹配
+g:\code\project\manage_system\manage_system\managementsystem.cpp(73): warning C4715: “ManagementSystem::hire”: 不是所有的控件路径都返回值
+g:\code\project\manage_system\manage_system\managementsystem.cpp(285): warning C4715: “ManagementSystem::hasRepeated”: 不是所有的控件路径都返回值
+  manage_system.vcxproj -> G:\code\project\manage_system\Debug\manage_system.exe
