@@ -1,0 +1,53 @@
+# ========================
+# 编译输出与临时文件
+# ========================
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.dll
+*.lib
+*.sbr
+*.log
+*.pch
+*.aps
+*.ncb
+*.opendb
+*.tlog
+*.tmp
+*.cache
+*.vspscc
+*.vssscc
+*.user
+*.suo
+*.sdf
+*.ipch
+*.dbmdl
+*.bak
+
+# ========================
+# 构建输出文件夹
+# ========================
+Debug/
+Release/
+x64/
+x86/
+build/
+[Bb]in/
+[Oo]bj/
+
+# ========================
+# Visual Studio 配置相关
+# ========================
+.vs/
+.vscode/
+*.VC.db
+*.VC.opendb
+
+# ========================
+# 系统级垃圾文件
+# ========================
+Thumbs.db
+ehthumbs.db
+*.DS_Store
