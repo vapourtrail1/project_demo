@@ -51,3 +51,25 @@ build/
 Thumbs.db
 ehthumbs.db
 *.DS_Store
+
+# Visual Studio 中间文件
+*.log
+*.obj
+*.idb
+*.tlog
+*.lastbuildstate
+*.VC.db
+*.VC.opendb
+*.user
+*.ipch
+
+# 构建文件夹
+Debug/
+Release/
+x64/
+[Bb]in/
+[Oo]bj/
+
+# 临时生成的测试工程
+Project1/
+
