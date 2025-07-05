@@ -1,75 +1,56 @@
-# ========================
-# 编译输出与临时文件
-# ========================
+# =========================
+# 编译产物
+# =========================
 *.obj
 *.exe
 *.pdb
 *.ilk
 *.idb
-*.dll
 *.lib
 *.sbr
+*.tlog
 *.log
 *.pch
-*.aps
-*.ncb
-*.opendb
-*.tlog
+*.bsc
+*.bak
 *.tmp
 *.cache
-*.vspscc
-*.vssscc
-*.user
-*.suo
-*.sdf
-*.ipch
-*.dbmdl
-*.bak
+*.lastbuildstate
 
-# ========================
-# 构建输出文件夹
-# ========================
+# =========================
+# 构建文件夹
+# =========================
+[Bb]in/
+[Oo]bj/
 Debug/
 Release/
 x64/
 x86/
 build/
-[Bb]in/
-[Oo]bj/
-
-# ========================
-# Visual Studio 配置相关
-# ========================
-.vs/
-.vscode/
-*.VC.db
-*.VC.opendb
-
-# ========================
-# 系统级垃圾文件
-# ========================
-Thumbs.db
-ehthumbs.db
-*.DS_Store
-
-# Visual Studio 中间文件
-*.log
-*.obj
-*.idb
-*.tlog
-*.lastbuildstate
-*.VC.db
-*.VC.opendb
-*.user
-*.ipch
-
-# 构建文件夹
-Debug/
-Release/
-x64/
-[Bb]in/
-[Oo]bj/
-
-# 临时生成的测试工程
 Project1/
 
+# =========================
+# Visual Studio 项目缓存
+# =========================
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+*.ipch
+.vs/
+.vscode/
+
+# =========================
+# 系统垃圾
+# =========================
+Thumbs.db
+ehthumbs.db
+.DS_Store
+
+# =========================
+# 如果你使用 CMake
+# =========================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
